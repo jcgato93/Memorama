@@ -1,0 +1,18 @@
+c:\users\juan camilo\documents\visual studio 2012\Projects\Memorama\Memorama\bin\Debug\Memorama.exe.config
+c:\users\juan camilo\documents\visual studio 2012\Projects\Memorama\Memorama\bin\Debug\Memorama.exe
+c:\users\juan camilo\documents\visual studio 2012\Projects\Memorama\Memorama\bin\Debug\Memorama.pdb
+c:\users\juan camilo\documents\visual studio 2012\Projects\Memorama\Memorama\obj\Debug\Memorama.csprojResolveAssemblyReference.cache
+c:\users\juan camilo\documents\visual studio 2012\Projects\Memorama\Memorama\obj\Debug\Memorama.Form1.resources
+c:\users\juan camilo\documents\visual studio 2012\Projects\Memorama\Memorama\obj\Debug\Memorama.Properties.Resources.resources
+c:\users\juan camilo\documents\visual studio 2012\Projects\Memorama\Memorama\obj\Debug\Memorama.csproj.GenerateResource.Cache
+c:\users\juan camilo\documents\visual studio 2012\Projects\Memorama\Memorama\obj\Debug\Memorama.exe
+c:\users\juan camilo\documents\visual studio 2012\Projects\Memorama\Memorama\obj\Debug\Memorama.pdb
+C:\Users\GATO\Documents\Visual Studio 2015\Projects\Memorama\Memorama\bin\Debug\Memorama.exe.config
+C:\Users\GATO\Documents\Visual Studio 2015\Projects\Memorama\Memorama\obj\Debug\Memorama.exe
+C:\Users\GATO\Documents\Visual Studio 2015\Projects\Memorama\Memorama\obj\Debug\Memorama.pdb
+C:\Users\GATO\Documents\Visual Studio 2015\Projects\Memorama\Memorama\bin\Debug\Memorama.exe
+C:\Users\GATO\Documents\Visual Studio 2015\Projects\Memorama\Memorama\bin\Debug\Memorama.pdb
+C:\Users\GATO\Documents\Visual Studio 2015\Projects\Memorama\Memorama\obj\Debug\Memorama.csprojResolveAssemblyReference.cache
+C:\Users\GATO\Documents\Visual Studio 2015\Projects\Memorama\Memorama\obj\Debug\Memorama.Form1.resources
+C:\Users\GATO\Documents\Visual Studio 2015\Projects\Memorama\Memorama\obj\Debug\Memorama.Properties.Resources.resources
+C:\Users\GATO\Documents\Visual Studio 2015\Projects\Memorama\Memorama\obj\Debug\Memorama.csproj.GenerateResource.Cache
